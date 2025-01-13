@@ -28,6 +28,6 @@ The AppSet folder allows you to customize many of the attributes of the app icon
 ## Settings Cube
 You can touch any of the headers in the cube to open on their app section, with the exception of the Launcher on the left side of the cube, which I have defaulted to ES-DE for me. I put alternate images in the \kustom\komponents\GCN\Settings folder for other popular launchers, like Daijisho and Beacon. There are also other alternate labels like Emulation and Streaming if you would prefer to change another category out. The app icons are set to launch my apps of course so you may need to adjust, add or delete apps for your system.
 
-These files are provided as is so unless there are some image bugs I may not be much help since I am new to using KLWP myself.
+These files are provided as is so unless there are some image bugs I may not be much help since I am new to using KLWP myself. I am also only able to test on the Android 13 with default launcher version that came with the RP5. I have no idea how it would work with other launchers.
 
 Special thanks to all that contribute to the Retroid and overall retro gaming communities.
