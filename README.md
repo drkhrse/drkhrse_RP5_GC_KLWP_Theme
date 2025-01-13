@@ -14,4 +14,12 @@ Set the Font, FontLgt, and FontBld global variables with your chosen fonts.
 **Icons** - Material Design Icons [here](https://www.reddit.com/r/kustom/comments/fqjx59/misc_material_design_icons_for_kustom_update/)  
 These are used for Utility and Application icons. You can use whatever fonticons you want but I used many in this pack.
 
+## Global Variables
+**SDPath** = `/storage/####-####` (Set the SDPath global variable to your SD card path for the SD Card space statistics. )
+
+**ClockCol** = `pink, purple, blue, custom` (pink and purple are the original GC pixel font colors. If you choose custom go into the TimeCol folder and edit TmCust and TmCustS. It is currently set to white)
+
+**GCColor** = `black,indigo` (sets the GC color on the lockscreen)
+
+The AppSet folder allows you to customize many of the attributes of the app icons that apeear when you select a menu item.
 
