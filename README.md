@@ -5,7 +5,7 @@ For those that want a simpler setup without the Settings Cube screen or animatio
 
 ![Screenshot](/screenshots/ss1.png)
 
-Put the included files into your /kustom folder on you device. You will also want to use something like KWGT to add a blank widget to the first screen so that there is no app icons there.
+Put the included files into your /kustom folder on you device. I installed it on my internal drive so you may need to change the directory paths in the global variables if you put the kustom folder on your SD Card. You will also want to use something like KWGT to add a blank widget to the first screen so that there is no app icons there.
 
 ## Optional Files
 To fully replicate what I have in my setup you will need to add the following files.
